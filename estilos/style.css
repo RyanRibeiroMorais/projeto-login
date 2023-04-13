@@ -145,15 +145,14 @@ footer {
     background-color: #68fff7;
     padding: 8px;
     box-shadow: -1px -1px 5px rgba(0, 0, 0, 0.499);
-    te
-}
+    text-align: center;
+ }
 
-footer a {
-    font-weight: bolder;
+ footer a {
+    font-weight: bold;
     text-decoration: none;
-    color: #5f2c82;
-}
+ }
 
-footer a:hover {
+ footer a:hover {
     text-decoration: underline;
-}
+ }
